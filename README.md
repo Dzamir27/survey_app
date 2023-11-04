@@ -1,6 +1,8 @@
-# test_synapsis
+# Survey App
 
 A new Flutter project.
+This application is still in the maintenance phase, so there are still lots of bugs
+Thank you for you hospitallity
 
 ## Getting Started
 
