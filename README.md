@@ -2,7 +2,7 @@
 
 A new Flutter project.
 This application is still in the maintenance phase, so there are still lots of bugs
-Thank you for you hospitallity
+Thank you for your hospitallity
 
 ## Getting Started
 
